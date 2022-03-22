@@ -1,9 +1,9 @@
 # TravelAppUI
-This is a travel app concept with an overview of destinations and activities all around the world. In this concept, a user can book trips and view details like destination descriptions, pricing and ratings.
-# BookStoreApp
 
 ### A travel app inspired by the design created by Anastasia on Dribbble
-This is a book store app concept with a detailed overview of books, best selling lists, the latest books, and books coming out soon. In this concept, a user can view book details like the author, the description, rating, reading times, as well as how many people have read the book.
+
+This is a travel app concept with an overview of destinations and activities all around the world. In this concept, a user can book trips and view details like destination descriptions, pricing and ratings.
+
 ## Built With
 * React Native
 * Expo
